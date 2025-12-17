@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pontiff/Desktop/100Devs/cs50Projects/cs50Clanguage/hello'
+relocations:     []
+...
