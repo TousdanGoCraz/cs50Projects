@@ -48,8 +48,6 @@ int main(void){
 
 
 
-    //Make it ask the user again until credit number is correct
-
 
     
     //prompt grade 
